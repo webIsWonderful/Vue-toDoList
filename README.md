@@ -1,6 +1,10 @@
-# oui-sncf-todo
+# Vue ToDoList
 
-> Front-end Test
+> A ToDo List built with Vue.js with features such as :
+- Add new item.
+- Toggle between 'Completed' and 'Uncompleted'.
+- Sort list automatically.
+- Provide Accessibility and semantic mark-up.
 
 ## Build Setup
 
